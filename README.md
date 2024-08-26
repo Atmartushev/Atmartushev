@@ -1,5 +1,4 @@
-![Transparent GIF](![playing-golf-people-are-awesome](https://github.com/user-attachments/assets/721d2645-f4cb-4ee3-a857-037b37e7d5bd)
-)
+![playing-golf-people-are-awesome](https://github.com/user-attachments/assets/721d2645-f4cb-4ee3-a857-037b37e7d5bd)
 
 # 👋 Hi, I'm Avtonom Martushev!
 
