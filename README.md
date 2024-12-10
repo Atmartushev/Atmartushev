@@ -12,7 +12,8 @@ I like to build cool things and do cool stuff... and golf ... alot.
 - **Interests:** Artificial Intelligence, Machine Learning, Data Science
 
 ### 📝 My Resume!
-<img width="664" alt="Screenshot 2024-08-25 at 11 58 13 PM" src="https://github.com/user-attachments/assets/a4649515-f1db-4f0f-a226-ad8ac953bf04">
+<img width="664" alt="Screenshot 2024-08-25 at 11 58 13 PM" src="https://github.com/user-attachments/files/18073575/Avtonom_Martushev_Resume.pdf">
+
 
 
 ### 💼 GitHub Stats
