@@ -7,16 +7,16 @@ I like to build cool things and do cool stuff... and golf ... alot.
 
 
 ### 🚀 Skills & Technologies
-- **Languages:** Python, Java, TypeScript
-- **Frameworks:** Django
-- **Interests:** Artificial Intelligence, Machine Learning, Data Science
+- **Languages:** Python, TypeScript, Java and whatever else you might need me for. Every language is the SAME!
+- **Frameworks:** Django. Angular, ASP.NET
+- **Interests:** Artificial Intelligence, Machine Learning, Stock Market and Investing.
 
 ### 📝 My Resume!
-<img width="664" alt="Screenshot 2024-08-25 at 11 58 13 PM" src="https://github.com/user-attachments/files/18073575/Avtonom_Martushev_Resume.pdf">
+<img width="664" alt="Screenshot 2024-08-25 at 11 58 13 PM" src="https://github.com/user-attachments/assets/6bd12b54-27d2-43a6-a272-d6c1daccfd94">
 
 
 
-### 💼 GitHub Stats
+### 💼 GitHub Stats (Grades don't mean everything...)
 ![Avtonom's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 
 ---
