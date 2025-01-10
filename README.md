@@ -12,7 +12,7 @@ I like to build cool things and do cool stuff... and golf ... alot.
 - **Interests:** Artificial Intelligence, Machine Learning, Stock Market and Investing.
 
 ### 📝 My Resume!
-<img width="664" alt="Screenshot 2024-08-25 at 11 58 13 PM" src="https://github.com/user-attachments/assets/6bd12b54-27d2-43a6-a272-d6c1daccfd94">
+<img width="664" alt="Screenshot 2024-08-25 at 11 58 13 PM" src="https://github.com/user-attachments/assets/a9761ff9-aa5d-4187-835b-953ad9f58f41">
 
 
 
@@ -20,4 +20,3 @@ I like to build cool things and do cool stuff... and golf ... alot.
 ![Avtonom's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 
 ---
-
