@@ -12,10 +12,11 @@ I like to build cool things and do cool stuff... and golf ... alot.
 - **Interests:** Artificial Intelligence, Machine Learning, Stock Market and Investing
 
 ### 📝 My Resume!
-<img width="664" alt="Screenshot 2024-08-25 at 11 58 13 PM" src="https://github.com/user-attachments/assets/43ecfc5c-9fe9-425a-aac5-366eeec6d7ab">
+<img width="703" height="893" alt="image" src="https://github.com/user-attachments/assets/183eb808-fc19-441c-9795-dfbd2d95afb1" />
 
 
-[DOWNLOAD MY RESUME HERE!](https://github.com/user-attachments/files/18606988/Avtonom_Martushev_Resume.pdf)
+
+[DOWNLOAD MY RESUME HERE!](https://github.com/user-attachments/files/21169236/Avtonom_Martushev_Resume7102025.pdf)
 
 ### 💼 GitHub Stats (Grades don't mean everything...)
 ![Avtonom's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
